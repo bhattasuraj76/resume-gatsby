@@ -1,2 +1,2 @@
-# My-Portfolio
-My portfolio website built with Gatsby
+# Restume Gatsby
+A static resume build with Gatsby
